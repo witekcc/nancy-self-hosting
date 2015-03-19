@@ -17,10 +17,12 @@ namespace Nancy.Demo.Hosting.Self
         {
             HostConfiguration hostConfigs = new HostConfiguration()
             {
+                //the app won't run without it
                 UrlReservations = new UrlReservations() { CreateAutomatically = true }
             };
 
-            using (var host = new NancyHost(new CustomBootstrapper(), new Uri("http://localhost:1234")))
+            //hostConfigs have to be passed in because of the "urlreservation" issues
+            using (var host = new NancyHost(new CustomBootstrapper(), hostConfigs, new Uri("http://localhost:1234")))
             {
                 host.Start();
                 Console.ReadLine();

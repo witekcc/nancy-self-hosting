@@ -7,7 +7,6 @@ C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\bin\Debug\Nancy.xml
 C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\bin\Debug\Nancy.Hosting.Self.xml
 C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\obj\Debug\nancy-self-hosting.exe
 C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\obj\Debug\nancy-self-hosting.pdb
-C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\obj\Debug\nancy-self-hosting.csprojResolveAssemblyReference.cache
 C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\bin\Debug\Nancy.ViewEngines.Razor.dll
 C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\bin\Debug\System.Web.Razor.dll
 C:\_Projects\vs_2013\nancy-self-hosting\nancy-self-hosting\bin\Debug\Nancy.ViewEngines.Razor.xml

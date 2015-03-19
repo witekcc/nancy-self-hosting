@@ -4,7 +4,7 @@ public class MainModule : NancyModule
 {
     public MainModule()
     {
-        Get["/nancy"] = p => 
+        Get["/users"] = p => 
             //"test2";
             View["staticview"];
     }
